@@ -22,7 +22,7 @@ Dependencies: None, its just pure java.
 
 This code was written for a classification project. It mostly does a lot of 
 data preprocessing before it feeds the data (not stored here) to the sk-learn
-knn-classifier. There is some SGD associated with learning a mahalanobis metric here.
+knn-classifier. There is some SGD associated with learning a Mahalanobis metric here.
 
 Dependencies: scikit-learn, numpy
 
@@ -36,7 +36,7 @@ Dependecies: mpi
 ## sift
 
 This is some code written for a computer vision projects that detects keypoints in a face by using
-support vector machine. Data is not provided here.
+support vector machines. Data is not provided here.
 
 Dependecies: scikit-learn, opencv, numpy
 
